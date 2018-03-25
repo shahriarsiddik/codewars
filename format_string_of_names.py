@@ -10,4 +10,4 @@ def namelist(name):
         else:
             res += " & "+i['name'] if count==len(name) else ", "+i['name']
     return res
-print namelist([{'name':'Bart'},{'name':'Lisa'}])
+print(namelist([{'name':'Bart'},{'name':'Lisa'}]))

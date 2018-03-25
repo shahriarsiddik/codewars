@@ -8,4 +8,5 @@ def shifted_diff(first, second):
 
     # code here!
 
-print shifted_diff("isn't","'tisn")
+
+print(shifted_diff("isn't", "'tisn"))

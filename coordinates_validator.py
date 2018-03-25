@@ -6,7 +6,7 @@ def is_valid_coordinates(coordinates):
             if not re.search('[a-zA-Z]', i):
                 return False
         my_list =[float(i) for i in coordinates.split(',')]
-        print my_list
+        print(my_list)
         if len(my_list)>2:
             return False
         else:
@@ -18,5 +18,4 @@ def is_valid_coordinates(coordinates):
         return False
 
 
-
-print is_valid_coordinates("23.245, 11e")
+print(is_valid_coordinates("23.245, 11e"))
