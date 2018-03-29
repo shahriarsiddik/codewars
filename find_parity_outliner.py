@@ -17,4 +17,4 @@ def find_outlier(integers):
 
 
 
-print find_prity([160, 3, 1719, 19, 11, 13, -21])
+print(find_prity([160, 3, 1719, 19, 11, 13, -21]))

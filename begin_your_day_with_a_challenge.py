@@ -10,4 +10,4 @@ def one_two_three(n):
     return [int(res1),int(''.join([str(1) for i in range(n)]))]
 
 
-print one_two_three(0)
+print(one_two_three(0))

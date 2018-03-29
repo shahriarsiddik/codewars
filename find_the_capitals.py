@@ -9,4 +9,4 @@ def capitals(word):
 
     return res_list
 
-print capitals('CodEWaRs')
+print(capitals('CodEWaRs'))

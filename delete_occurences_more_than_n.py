@@ -15,5 +15,5 @@ def delete_nth(order,max_e):
 
     return fin_list
 
-print delete_nth ([20,37,20,21],2)
+print(delete_nth ([20,37,20,21],2))
 

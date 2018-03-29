@@ -29,7 +29,7 @@ rng = [-300, 500]
 wanted = 'even'
 
 
-print find_arr([],[],rng,wanted)
+print(find_arr([],[],rng,wanted))
 # print find_arr2(arrA,arrB,rng,wanted)
 
-print "time elapsed: {:.2f}s".format(time.time() - start_time)
+print("time elapsed: {:.2f}s".format(time.time() - start_time))

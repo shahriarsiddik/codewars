@@ -4,4 +4,4 @@ def xo(s):
     o_cnt = s.count('o')+s.count('O')
     return True if x_cnt==o_cnt else False
 
-print xo('xxoo')
+print(xo('xxoo'))

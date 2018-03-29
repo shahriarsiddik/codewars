@@ -1,0 +1,48 @@
+	Explanation
+simpleEmail@email.com	–
+simple.email@email.com	–
+plus+symbol@email.com	–
+dash-symbol@email.com	–
+q@email.com	one letter local part
+“unusual”@email.com	–
+dash-symbol@email-dash.com	–
+test@emailServer	local domain name with no TLD
+” “@email.com	space between the quotes
+user@[IPv6:2001:DB8::1]	–
+example@localhost	–
+example@s.solutions	see List of Internet TLDs
+12345@email.com	–
+
+https://shahriarsiddik.com
+http://babu.com
+
+Invalid Email Address	Explanation
+invalid.email.com	no @ character
+invalid@test@email.com	only one @ is allowed
+i”n(v)a;l:id@email.com	no special chars allowed outside quotation marks
+invalid”test”@email.com	quoted strings must be dot separated or the only element making up the local-part
+thisis”not\allowed@email.com	spaces, quotes, and backslashes may only exist when within quoted strings and preceded by a backslash
+ invalid…test@email.com	multiple dot before @
+ invalid@email…com	multiple dot after @
+ email@111.222.333.44444	 invalid IP format
+ invalid@-email.com	 leading dash in front of domain
+.invalid@email.com	leading dot
+invalid.@email.com	trailing dot
+invalid@email.com (tester)	string following email
+@email.com	missing username
+
+zbelkouchia.leoh@pilpres2018.ml
+eali.iq94n@hdfgh45gfjdgf.tk
+
+63.eh5nc6@evus-k.com
+l.5sqnu3@2ankws92oaht.com
+4u4pq3ruhkcn-5@5060sv.com
+thx7fozdjyx6fyy@7x1cocehg.com
+ypatyqdk70p@ity1x8-bd.com
+thx7fozdjyx6fyy@7x1cocehg.com
+vf12sadf@t1uuhh0lr4i.com
+l.5sqnu3@2ankws92oaht.com
+ypatyqdk70p@ity1x8-bd.com
+l.5sqnu3@2ankws92oaht.com
+ecs.5n_imjie2yr@inhj1r6ipwx.com
+e9cs@e-vvcz7160.com

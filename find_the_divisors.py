@@ -11,4 +11,4 @@ def divisors(integer):
 
 
 for j in range(100):
-    print "for "+str(j)+" ---------> "+ str(divisors(j))+'\n'
+    print("for "+str(j)+" ---------> "+ str(divisors(j))+'\n')
